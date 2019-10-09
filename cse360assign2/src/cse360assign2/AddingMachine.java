@@ -22,7 +22,7 @@ public class AddingMachine {
 	}
 	
 	public void add (int value) {
-		return 1;
+		
 	}
 	
 	public void subtract (int value) {
